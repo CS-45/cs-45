@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Sutar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cs-45&label=Profile%20views&color=0e75b6&style=flat" alt="cs-45" /> </p>
 
-- 🌱 I’m currently learning **React-js,node.Js**
+- 🌱 I’m currently learning **Angular,TypeScript,Java**
 
-- 💬 Ask me about **react , javascript**
+- 💬 Ask me about **Angular , TypeScript, javascript**
 
-- 📫 How to reach me **Chaitanyasutar045@gmail.com**
+- 📫 How to reach me **chaitanyasutar09@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mcvywewgFYIN7AcXo4yG_5J03Mz1ouXw/view?usp=drive_link ](https://drive.google.com/file/d/1mcvywewgFYIN7AcXo4yG_5J03Mz1ouXw/view?usp=drive_link )
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chaitanya-sutar-5a1323255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanya-sutar-5a1323255" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chaitanya-sutarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanya-sutar-5a1323255" height="30" width="40" /></a>
 <a href="https://instagram.com/__chaitanya__45__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__chaitanya__45__" height="30" width="40" /></a>
 </p>
 
