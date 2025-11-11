@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **Chaitanyasutar045@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qBsMkpkob-Zk9vyhSPG07T1_f4jxS43i/view?usp=drive_link](https://drive.google.com/file/d/1qBsMkpkob-Zk9vyhSPG07T1_f4jxS43i/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mcvywewgFYIN7AcXo4yG_5J03Mz1ouXw/view?usp=drive_link ](https://drive.google.com/file/d/1mcvywewgFYIN7AcXo4yG_5J03Mz1ouXw/view?usp=drive_link )
 
 - ⚡ Fun fact **I am funny**
 
